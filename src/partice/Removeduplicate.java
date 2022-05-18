@@ -10,6 +10,11 @@ public class Removeduplicate {
 		  for( int i=0;i<c.length;i++){
 			  int j;
 			   for( j=0;j<i;j++){
+				   
+				   
+				   
+				   
+				   
 				   if(c[i]==c[j]){
 					   break;
 				   }
